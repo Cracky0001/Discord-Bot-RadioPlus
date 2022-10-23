@@ -33,3 +33,4 @@ All notable changes to this project will be documented in this file.
       * Radio Bob - Country
       * Radio 21 - Nonstop Metal
       * Radio 21
+      * KISS.FM
