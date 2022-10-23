@@ -26,7 +26,7 @@ There are more than 20 preset radio streams that you can call up by command to f
 
 ## Invite
 
-You can [Invite](https://discord.com/api/oauth2/authorize?client_id=1033494479287623700&permissions=0&scope=bot%20applications.commands) the latest version of Setup+ for Discord.  
+You can [Invite](https://discord.com/api/oauth2/authorize?client_id=1033494479287623700&permissions=2184195072&scope=bot%20applications.commands) the latest version of Setup+ for Discord.  
 Or check [Discord Bot List(Comes with version 1.0.0)]()
 
 ## Commands
